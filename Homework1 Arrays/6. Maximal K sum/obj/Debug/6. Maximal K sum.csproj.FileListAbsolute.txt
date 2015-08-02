@@ -1,0 +1,6 @@
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\6. Maximal K sum\bin\Debug\_6.Maximal_K_sum.exe.config
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\6. Maximal K sum\bin\Debug\_6.Maximal_K_sum.exe
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\6. Maximal K sum\bin\Debug\_6.Maximal_K_sum.pdb
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\6. Maximal K sum\obj\Debug\6. Maximal K sum.csprojResolveAssemblyReference.cache
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\6. Maximal K sum\obj\Debug\_6.Maximal_K_sum.exe
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\6. Maximal K sum\obj\Debug\_6.Maximal_K_sum.pdb

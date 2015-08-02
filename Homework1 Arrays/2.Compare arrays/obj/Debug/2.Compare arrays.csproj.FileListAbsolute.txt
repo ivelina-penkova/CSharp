@@ -1,0 +1,6 @@
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\2.Compare arrays\bin\Debug\2.Compare arrays.exe.config
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\2.Compare arrays\bin\Debug\2.Compare arrays.exe
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\2.Compare arrays\bin\Debug\2.Compare arrays.pdb
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\2.Compare arrays\obj\Debug\2.Compare arrays.csprojResolveAssemblyReference.cache
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\2.Compare arrays\obj\Debug\2.Compare arrays.exe
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\2.Compare arrays\obj\Debug\2.Compare arrays.pdb

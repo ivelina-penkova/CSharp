@@ -1,0 +1,6 @@
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\7. Selection sort\bin\Debug\_7.Selection_sort.exe.config
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\7. Selection sort\obj\Debug\7. Selection sort.csprojResolveAssemblyReference.cache
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\7. Selection sort\bin\Debug\_7.Selection_sort.exe
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\7. Selection sort\bin\Debug\_7.Selection_sort.pdb
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\7. Selection sort\obj\Debug\_7.Selection_sort.exe
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\7. Selection sort\obj\Debug\_7.Selection_sort.pdb

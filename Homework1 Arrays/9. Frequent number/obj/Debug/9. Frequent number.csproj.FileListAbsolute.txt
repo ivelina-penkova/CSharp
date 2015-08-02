@@ -1,0 +1,6 @@
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\9. Frequent number\bin\Debug\_9.Frequent_number.exe.config
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\9. Frequent number\bin\Debug\_9.Frequent_number.exe
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\9. Frequent number\bin\Debug\_9.Frequent_number.pdb
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\9. Frequent number\obj\Debug\9. Frequent number.csprojResolveAssemblyReference.cache
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\9. Frequent number\obj\Debug\_9.Frequent_number.exe
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\9. Frequent number\obj\Debug\_9.Frequent_number.pdb

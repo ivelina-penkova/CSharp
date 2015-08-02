@@ -1,0 +1,6 @@
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\4. Maximal sequence\bin\Debug\_4.Maximal_sequence.exe.config
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\4. Maximal sequence\bin\Debug\_4.Maximal_sequence.exe
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\4. Maximal sequence\bin\Debug\_4.Maximal_sequence.pdb
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\4. Maximal sequence\obj\Debug\4. Maximal sequence.csprojResolveAssemblyReference.cache
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\4. Maximal sequence\obj\Debug\_4.Maximal_sequence.exe
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\4. Maximal sequence\obj\Debug\_4.Maximal_sequence.pdb

@@ -1,0 +1,5 @@
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\5. Maximal increasing sequence\bin\Debug\_5.Maximal_increasing_sequence.exe.config
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\5. Maximal increasing sequence\bin\Debug\_5.Maximal_increasing_sequence.exe
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\5. Maximal increasing sequence\bin\Debug\_5.Maximal_increasing_sequence.pdb
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\5. Maximal increasing sequence\obj\Debug\_5.Maximal_increasing_sequence.exe
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\5. Maximal increasing sequence\obj\Debug\_5.Maximal_increasing_sequence.pdb

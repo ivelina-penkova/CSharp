@@ -1,0 +1,6 @@
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\Problem 13. Merge sort\bin\Debug\Problem_13.Merge_sort.exe.config
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\Problem 13. Merge sort\bin\Debug\Problem_13.Merge_sort.exe
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\Problem 13. Merge sort\bin\Debug\Problem_13.Merge_sort.pdb
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\Problem 13. Merge sort\obj\Debug\Problem 13. Merge sort.csprojResolveAssemblyReference.cache
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\Problem 13. Merge sort\obj\Debug\Problem_13.Merge_sort.exe
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\Problem 13. Merge sort\obj\Debug\Problem_13.Merge_sort.pdb

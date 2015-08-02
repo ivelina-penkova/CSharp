@@ -1,0 +1,6 @@
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\3.Compare char arrays\bin\Debug\3.Compare char arrays.exe.config
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\3.Compare char arrays\bin\Debug\3.Compare char arrays.exe
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\3.Compare char arrays\bin\Debug\3.Compare char arrays.pdb
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\3.Compare char arrays\obj\Debug\3.Compare char arrays.csprojResolveAssemblyReference.cache
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\3.Compare char arrays\obj\Debug\3.Compare char arrays.exe
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part Two\Homework1 Arrays\3.Compare char arrays\obj\Debug\3.Compare char arrays.pdb
