@@ -1,0 +1,6 @@
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework2 Methods\First Larger Than Neighbours\bin\Debug\First Larger Than Neighbours.exe.config
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework2 Methods\First Larger Than Neighbours\bin\Debug\First Larger Than Neighbours.exe
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework2 Methods\First Larger Than Neighbours\bin\Debug\First Larger Than Neighbours.pdb
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework2 Methods\First Larger Than Neighbours\obj\Debug\First Larger Than Neighbours.csprojResolveAssemblyReference.cache
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework2 Methods\First Larger Than Neighbours\obj\Debug\First Larger Than Neighbours.exe
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework2 Methods\First Larger Than Neighbours\obj\Debug\First Larger Than Neighbours.pdb

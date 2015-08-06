@@ -1,0 +1,6 @@
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework2 Methods\Last Digit of Number\bin\Debug\Last Digit of Number.exe.config
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework2 Methods\Last Digit of Number\bin\Debug\Last Digit of Number.exe
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework2 Methods\Last Digit of Number\bin\Debug\Last Digit of Number.pdb
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework2 Methods\Last Digit of Number\obj\Debug\Last Digit of Number.csprojResolveAssemblyReference.cache
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework2 Methods\Last Digit of Number\obj\Debug\Last Digit of Number.exe
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework2 Methods\Last Digit of Number\obj\Debug\Last Digit of Number.pdb

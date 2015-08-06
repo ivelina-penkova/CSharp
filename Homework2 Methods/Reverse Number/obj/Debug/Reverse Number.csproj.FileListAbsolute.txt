@@ -1,0 +1,6 @@
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework2 Methods\Reverse Number\bin\Debug\Reverse Number.exe.config
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework2 Methods\Reverse Number\bin\Debug\Reverse Number.exe
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework2 Methods\Reverse Number\bin\Debug\Reverse Number.pdb
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework2 Methods\Reverse Number\obj\Debug\Reverse Number.csprojResolveAssemblyReference.cache
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework2 Methods\Reverse Number\obj\Debug\Reverse Number.exe
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework2 Methods\Reverse Number\obj\Debug\Reverse Number.pdb

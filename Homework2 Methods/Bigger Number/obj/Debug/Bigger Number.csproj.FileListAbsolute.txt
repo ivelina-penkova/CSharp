@@ -1,0 +1,6 @@
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework2 Methods\Homework2 Methods\bin\Debug\Homework2 Methods.exe.config
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework2 Methods\Homework2 Methods\bin\Debug\Homework2 Methods.exe
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework2 Methods\Homework2 Methods\bin\Debug\Homework2 Methods.pdb
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework2 Methods\Homework2 Methods\obj\Debug\Bigger Number.csprojResolveAssemblyReference.cache
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework2 Methods\Homework2 Methods\obj\Debug\Homework2 Methods.exe
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework2 Methods\Homework2 Methods\obj\Debug\Homework2 Methods.pdb
