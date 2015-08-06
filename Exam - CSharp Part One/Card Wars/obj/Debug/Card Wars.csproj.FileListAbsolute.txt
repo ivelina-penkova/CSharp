@@ -1,0 +1,6 @@
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part One\Exam - CSharp Part One\Card Wars\bin\Debug\Card Wars.exe.config
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part One\Exam - CSharp Part One\Card Wars\bin\Debug\Card Wars.exe
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part One\Exam - CSharp Part One\Card Wars\bin\Debug\Card Wars.pdb
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part One\Exam - CSharp Part One\Card Wars\obj\Debug\Card Wars.csprojResolveAssemblyReference.cache
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part One\Exam - CSharp Part One\Card Wars\obj\Debug\Card Wars.exe
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part One\Exam - CSharp Part One\Card Wars\obj\Debug\Card Wars.pdb

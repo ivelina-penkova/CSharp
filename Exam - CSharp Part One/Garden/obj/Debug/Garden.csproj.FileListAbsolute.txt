@@ -1,0 +1,6 @@
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part One\Exam - CSharp Part One\Garden\bin\Debug\Exam - CSharp Part One.exe.config
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part One\Exam - CSharp Part One\Garden\bin\Debug\Exam - CSharp Part One.exe
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part One\Exam - CSharp Part One\Garden\bin\Debug\Exam - CSharp Part One.pdb
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part One\Exam - CSharp Part One\Garden\obj\Debug\Garden.csprojResolveAssemblyReference.cache
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part One\Exam - CSharp Part One\Garden\obj\Debug\Exam - CSharp Part One.exe
+C:\Users\Ivcheto\Documents\GitHub\Telerik\C#-Part One\Exam - CSharp Part One\Garden\obj\Debug\Exam - CSharp Part One.pdb
