@@ -1,0 +1,6 @@
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework3 Multidimensional Arrays, Sets, Dictionaries\Fill the Matrix(v2)\bin\Debug\Fill the Matrix(v2).exe.config
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework3 Multidimensional Arrays, Sets, Dictionaries\Fill the Matrix(v2)\bin\Debug\Fill the Matrix(v2).exe
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework3 Multidimensional Arrays, Sets, Dictionaries\Fill the Matrix(v2)\bin\Debug\Fill the Matrix(v2).pdb
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework3 Multidimensional Arrays, Sets, Dictionaries\Fill the Matrix(v2)\obj\Debug\Fill the Matrix(v2).csprojResolveAssemblyReference.cache
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework3 Multidimensional Arrays, Sets, Dictionaries\Fill the Matrix(v2)\obj\Debug\Fill the Matrix(v2).exe
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework3 Multidimensional Arrays, Sets, Dictionaries\Fill the Matrix(v2)\obj\Debug\Fill the Matrix(v2).pdb
