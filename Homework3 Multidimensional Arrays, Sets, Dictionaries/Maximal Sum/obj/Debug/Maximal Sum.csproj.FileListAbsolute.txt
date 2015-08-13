@@ -1,0 +1,6 @@
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework3 Multidimensional Arrays, Sets, Dictionaries\Maximal Sum\bin\Debug\Maximal Sum.exe.config
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework3 Multidimensional Arrays, Sets, Dictionaries\Maximal Sum\bin\Debug\Maximal Sum.exe
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework3 Multidimensional Arrays, Sets, Dictionaries\Maximal Sum\bin\Debug\Maximal Sum.pdb
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework3 Multidimensional Arrays, Sets, Dictionaries\Maximal Sum\obj\Debug\Maximal Sum.csprojResolveAssemblyReference.cache
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework3 Multidimensional Arrays, Sets, Dictionaries\Maximal Sum\obj\Debug\Maximal Sum.exe
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework3 Multidimensional Arrays, Sets, Dictionaries\Maximal Sum\obj\Debug\Maximal Sum.pdb

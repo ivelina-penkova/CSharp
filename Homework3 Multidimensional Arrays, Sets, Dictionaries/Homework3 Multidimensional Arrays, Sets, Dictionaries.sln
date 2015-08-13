@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fill the Matrix(v1)", "Fill
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fill the Matrix(v2)", "Fill the Matrix(v2)\Fill the Matrix(v2).csproj", "{F454A433-16B0-4646-9F32-3E1E53F678C5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximal Sum", "Maximal Sum\Maximal Sum.csproj", "{CEE249C4-D3A1-4880-8170-FFA570715283}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrix shuffling", "Matrix shuffling\Matrix shuffling.csproj", "{60276A55-07F1-4277-925A-B1834E20E7E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{F454A433-16B0-4646-9F32-3E1E53F678C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F454A433-16B0-4646-9F32-3E1E53F678C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F454A433-16B0-4646-9F32-3E1E53F678C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEE249C4-D3A1-4880-8170-FFA570715283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEE249C4-D3A1-4880-8170-FFA570715283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEE249C4-D3A1-4880-8170-FFA570715283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEE249C4-D3A1-4880-8170-FFA570715283}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60276A55-07F1-4277-925A-B1834E20E7E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60276A55-07F1-4277-925A-B1834E20E7E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60276A55-07F1-4277-925A-B1834E20E7E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60276A55-07F1-4277-925A-B1834E20E7E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
