@@ -1,0 +1,6 @@
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework3 Multidimensional Arrays, Sets, Dictionaries\Sequence in Matrix\bin\Debug\Sequence in Matrix.exe.config
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework3 Multidimensional Arrays, Sets, Dictionaries\Sequence in Matrix\bin\Debug\Sequence in Matrix.exe
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework3 Multidimensional Arrays, Sets, Dictionaries\Sequence in Matrix\bin\Debug\Sequence in Matrix.pdb
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework3 Multidimensional Arrays, Sets, Dictionaries\Sequence in Matrix\obj\Debug\Sequence in Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework3 Multidimensional Arrays, Sets, Dictionaries\Sequence in Matrix\obj\Debug\Sequence in Matrix.exe
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework3 Multidimensional Arrays, Sets, Dictionaries\Sequence in Matrix\obj\Debug\Sequence in Matrix.pdb
