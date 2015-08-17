@@ -1,0 +1,6 @@
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework3 Multidimensional Arrays, Sets, Dictionaries\Count Symbols\bin\Debug\Count Symbols.exe.config
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework3 Multidimensional Arrays, Sets, Dictionaries\Count Symbols\bin\Debug\Count Symbols.exe
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework3 Multidimensional Arrays, Sets, Dictionaries\Count Symbols\bin\Debug\Count Symbols.pdb
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework3 Multidimensional Arrays, Sets, Dictionaries\Count Symbols\obj\Debug\Count Symbols.csprojResolveAssemblyReference.cache
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework3 Multidimensional Arrays, Sets, Dictionaries\Count Symbols\obj\Debug\Count Symbols.exe
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework3 Multidimensional Arrays, Sets, Dictionaries\Count Symbols\obj\Debug\Count Symbols.pdb
