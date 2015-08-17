@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sequence in Matrix", "Seque
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count Symbols", "Count Symbols\Count Symbols.csproj", "{D0531ABF-3FE4-4238-B8CC-9C3BE1D2AD46}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phonebook", "Phonebook\Phonebook.csproj", "{DC79034F-5296-418A-AC7A-875835CEFDAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{D0531ABF-3FE4-4238-B8CC-9C3BE1D2AD46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0531ABF-3FE4-4238-B8CC-9C3BE1D2AD46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0531ABF-3FE4-4238-B8CC-9C3BE1D2AD46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC79034F-5296-418A-AC7A-875835CEFDAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC79034F-5296-418A-AC7A-875835CEFDAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC79034F-5296-418A-AC7A-875835CEFDAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC79034F-5296-418A-AC7A-875835CEFDAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
