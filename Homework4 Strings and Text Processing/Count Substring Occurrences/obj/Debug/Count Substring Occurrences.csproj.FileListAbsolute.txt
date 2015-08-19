@@ -1,0 +1,6 @@
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework4 Strings and Text Processing\Count Substring Occurrences\bin\Debug\Count Substring Occurrences.exe.config
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework4 Strings and Text Processing\Count Substring Occurrences\bin\Debug\Count Substring Occurrences.exe
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework4 Strings and Text Processing\Count Substring Occurrences\bin\Debug\Count Substring Occurrences.pdb
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework4 Strings and Text Processing\Count Substring Occurrences\obj\Debug\Count Substring Occurrences.csprojResolveAssemblyReference.cache
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework4 Strings and Text Processing\Count Substring Occurrences\obj\Debug\Count Substring Occurrences.exe
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework4 Strings and Text Processing\Count Substring Occurrences\obj\Debug\Count Substring Occurrences.pdb
