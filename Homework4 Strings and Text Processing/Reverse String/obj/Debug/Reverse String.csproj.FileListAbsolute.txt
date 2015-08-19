@@ -1,0 +1,6 @@
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework4 Strings and Text Processing\Reverse String\bin\Debug\Reverse String.exe.config
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework4 Strings and Text Processing\Reverse String\bin\Debug\Reverse String.exe
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework4 Strings and Text Processing\Reverse String\bin\Debug\Reverse String.pdb
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework4 Strings and Text Processing\Reverse String\obj\Debug\Reverse String.csprojResolveAssemblyReference.cache
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework4 Strings and Text Processing\Reverse String\obj\Debug\Reverse String.exe
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework4 Strings and Text Processing\Reverse String\obj\Debug\Reverse String.pdb

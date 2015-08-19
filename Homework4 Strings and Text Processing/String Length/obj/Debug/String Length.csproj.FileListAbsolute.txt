@@ -1,0 +1,6 @@
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework4 Strings and Text Processing\String Length\bin\Debug\String Length.exe.config
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework4 Strings and Text Processing\String Length\bin\Debug\String Length.exe
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework4 Strings and Text Processing\String Length\bin\Debug\String Length.pdb
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework4 Strings and Text Processing\String Length\obj\Debug\String Length.csprojResolveAssemblyReference.cache
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework4 Strings and Text Processing\String Length\obj\Debug\String Length.exe
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework4 Strings and Text Processing\String Length\obj\Debug\String Length.pdb
