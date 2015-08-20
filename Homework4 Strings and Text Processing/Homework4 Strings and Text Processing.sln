@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String Length", "String Len
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count Substring Occurrences", "Count Substring Occurrences\Count Substring Occurrences.csproj", "{9FC00FF3-91CB-4523-8120-E1861EB95833}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unicode Characters", "Unicode Characters\Unicode Characters.csproj", "{49D17406-364A-41AA-B2A8-0AFA79FCB5B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9FC00FF3-91CB-4523-8120-E1861EB95833}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FC00FF3-91CB-4523-8120-E1861EB95833}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FC00FF3-91CB-4523-8120-E1861EB95833}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49D17406-364A-41AA-B2A8-0AFA79FCB5B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49D17406-364A-41AA-B2A8-0AFA79FCB5B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49D17406-364A-41AA-B2A8-0AFA79FCB5B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49D17406-364A-41AA-B2A8-0AFA79FCB5B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

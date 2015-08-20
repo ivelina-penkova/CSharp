@@ -1,0 +1,6 @@
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework4 Strings and Text Processing\Unicode Characters\bin\Debug\Unicode Characters.exe.config
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework4 Strings and Text Processing\Unicode Characters\bin\Debug\Unicode Characters.exe
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework4 Strings and Text Processing\Unicode Characters\bin\Debug\Unicode Characters.pdb
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework4 Strings and Text Processing\Unicode Characters\obj\Debug\Unicode Characters.csprojResolveAssemblyReference.cache
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework4 Strings and Text Processing\Unicode Characters\obj\Debug\Unicode Characters.exe
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\Homework4 Strings and Text Processing\Unicode Characters\obj\Debug\Unicode Characters.pdb
