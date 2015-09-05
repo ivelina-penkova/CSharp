@@ -31,7 +31,7 @@ namespace Problem_2_Laptop_Shop
         private string hdd;
         private string screen;
         private Battery battery;
-        private int batterylife;
+        private double batterylife;
         private int price;
 
         public string Model
@@ -130,12 +130,126 @@ namespace Problem_2_Laptop_Shop
             }
         }
 
+        public string Screen
+        {
+            get
+            {
+                return this.screen;
+            }
+            set
+            {
+                if (string.IsNullOrEmpty(value))
+                {
+                    throw new ArgumentException("Invalid argument!");
+                }
+                this.screen = value;
+            }
+        }
+
+        public Battery Battery
+        {
+            get
+            {
+                return this.battery;
+            }
+            set
+            {
+                this.battery = value;
+            }
+        }
+
+        public double Batterylife
+        {
+            get
+            {
+                return this.batterylife;
+            }
+            set
+            {
+                if (value < 0)
+                {
+                    throw new ArgumentException("Negative argument!");
+                }
+                this.batterylife = value;
+            }
+        }
+
+        public int Price
+        {
+            get
+            {
+                return this.price;
+            }
+            set
+            {
+                if (value < 0)
+                {
+                    throw new ArgumentException("Negative argument!");
+                }
+                this.price = value;
+            }
+        }
+
+        public Laptop(string model, int price, string manifacturer, string processor, 
+                      int ram, string graphicscard, string hdd, string screen, Battery battery, double batterylife)
+        {
+            this.Model = model;
+            this.Price = price;
+            this.Manifacturer = manifacturer;
+            this.Processor = processor;
+            this.Ram = ram;
+            this.Graphicscard = graphicscard;
+            this.Hdd = hdd;
+            this.Screen = screen;
+            this.Battery = battery;
+            this.Batterylife = batterylife;
+        }
+
+        public Laptop(string model, int price, string manifacturer, string processor,
+                      int ram, string graphicscard, string hdd, string screen, string type, int cells, int mah, double batterylife)
+        {
+            this.Model = model;
+            this.Price = price;
+            this.Manifacturer = manifacturer;
+            this.Processor = processor;
+            this.Ram = ram;
+            this.Graphicscard = graphicscard;
+            this.Hdd = hdd;
+            this.Screen = screen;
+            this.Battery = new Battery(type, cells,mah);
+            this.Batterylife = batterylife;
+        }
+        public Laptop(string model, int price)
+        {
+            this.Model = model;
+            this.Price = price;
+        }
+        public Laptop(string model, int price, string processor,
+                      int ram)
+        {
+            this.Model = model;
+            this.Price = price;
+            this.Processor = processor;
+            this.Ram = ram;
+        }
+
+        public override string ToString()
+        {
+            string result = "Model: " + this.Model + "\nManifacturer: " + this.Manifacturer + "\nProcessor: " + this.Processor + "\nRAM: " + this.Ram + " GB"
+                            + "\nGraphics Card: " + this.Graphicscard + "\nHDD: " + this.Hdd + "\nScreen: " + this.Screen + "\nBattery: " + this.Battery.Type + ", " + this.Battery.Cells + "cells, "
+                            + this.Battery.Mah + " mAh\nBattery Life: " + this.Batterylife + "\nPrice: " + this.Price + " lv.";
+            return result;
+        }
     }
 
     class Program
     {
         static void Main(string[] args)
         {
+            Laptop l = new Laptop("Lenovo Yoga 2 Pro", 2259, "Lenovo", "Intel Core i5-4210U (2-core, 1.70 - 2.70 GHz, 3MB cache)",
+                                8, "Intel HD Graphics 4400", "128GB SSD", "13.3 (33.78 cm) – 3200 x 1800(QHD +), IPS sensor display",
+                                "Li-Ion", 4, 2550, 4.5);
+            Console.WriteLine(l.ToString());
         }
     }
 }
