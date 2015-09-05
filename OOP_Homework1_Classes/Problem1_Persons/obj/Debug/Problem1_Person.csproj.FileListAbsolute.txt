@@ -1,0 +1,6 @@
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\OOP_Homework1_Classes\Problem1_Persons\bin\Debug\Problem1_Persons.exe.config
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\OOP_Homework1_Classes\Problem1_Persons\bin\Debug\Problem1_Persons.exe
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\OOP_Homework1_Classes\Problem1_Persons\bin\Debug\Problem1_Persons.pdb
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\OOP_Homework1_Classes\Problem1_Persons\obj\Debug\Problem1_Person.csprojResolveAssemblyReference.cache
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\OOP_Homework1_Classes\Problem1_Persons\obj\Debug\Problem1_Persons.exe
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\OOP_Homework1_Classes\Problem1_Persons\obj\Debug\Problem1_Persons.pdb

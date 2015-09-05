@@ -26,9 +26,14 @@ namespace Problem1_Persons
             this.Email = email;
         }
 
-        public Person(string name, int age)
+        public Person(string name, int age) : this(name, age,"example@gmail.com")
         {
+        }
 
+        public override string ToString()
+        {
+            string result = "Name: " + this.Name + "\nAge: " + this.Age + "\nEmail: " + this.Email;
+            return result;
         }
 
         public string Name
@@ -77,6 +82,8 @@ namespace Problem1_Persons
     {
         static void Main(string[] args)
         {
+            Person person = new Person("Ivan",22);
+            Console.WriteLine(person.ToString());
         }
     }
 }

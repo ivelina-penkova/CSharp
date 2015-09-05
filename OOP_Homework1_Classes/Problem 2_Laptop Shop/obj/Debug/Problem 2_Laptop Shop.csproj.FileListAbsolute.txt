@@ -1,0 +1,6 @@
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\OOP_Homework1_Classes\Problem 2_Laptop Shop\bin\Debug\Problem 2_Laptop Shop.exe.config
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\OOP_Homework1_Classes\Problem 2_Laptop Shop\bin\Debug\Problem 2_Laptop Shop.exe
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\OOP_Homework1_Classes\Problem 2_Laptop Shop\bin\Debug\Problem 2_Laptop Shop.pdb
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\OOP_Homework1_Classes\Problem 2_Laptop Shop\obj\Debug\Problem 2_Laptop Shop.csprojResolveAssemblyReference.cache
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\OOP_Homework1_Classes\Problem 2_Laptop Shop\obj\Debug\Problem 2_Laptop Shop.exe
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\OOP_Homework1_Classes\Problem 2_Laptop Shop\obj\Debug\Problem 2_Laptop Shop.pdb
