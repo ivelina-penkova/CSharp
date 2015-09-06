@@ -1,0 +1,6 @@
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\OOP_Homework1_Classes\Problem 3_PC Catalog\bin\Debug\Problem 3_PC Catalog.exe.config
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\OOP_Homework1_Classes\Problem 3_PC Catalog\obj\Debug\Problem 3_PC Catalog.csprojResolveAssemblyReference.cache
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\OOP_Homework1_Classes\Problem 3_PC Catalog\bin\Debug\Problem 3_PC Catalog.exe
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\OOP_Homework1_Classes\Problem 3_PC Catalog\bin\Debug\Problem 3_PC Catalog.pdb
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\OOP_Homework1_Classes\Problem 3_PC Catalog\obj\Debug\Problem 3_PC Catalog.exe
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\OOP_Homework1_Classes\Problem 3_PC Catalog\obj\Debug\Problem 3_PC Catalog.pdb
