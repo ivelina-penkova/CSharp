@@ -1,0 +1,6 @@
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\OOP_Homework2_Static Members and Namespaces\Point3D\bin\Debug\Point3D.exe.config
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\OOP_Homework2_Static Members and Namespaces\Point3D\bin\Debug\Point3D.exe
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\OOP_Homework2_Static Members and Namespaces\Point3D\bin\Debug\Point3D.pdb
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\OOP_Homework2_Static Members and Namespaces\Point3D\obj\Debug\Problem1_Point3D.csprojResolveAssemblyReference.cache
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\OOP_Homework2_Static Members and Namespaces\Point3D\obj\Debug\Point3D.exe
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\OOP_Homework2_Static Members and Namespaces\Point3D\obj\Debug\Point3D.pdb
