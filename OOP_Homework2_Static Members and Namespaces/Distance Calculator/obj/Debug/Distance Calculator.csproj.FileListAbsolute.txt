@@ -1,0 +1,6 @@
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\OOP_Homework2_Static Members and Namespaces\Distance Calculator\bin\Debug\Distance Calculator.exe.config
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\OOP_Homework2_Static Members and Namespaces\Distance Calculator\bin\Debug\Distance Calculator.exe
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\OOP_Homework2_Static Members and Namespaces\Distance Calculator\bin\Debug\Distance Calculator.pdb
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\OOP_Homework2_Static Members and Namespaces\Distance Calculator\obj\Debug\Distance Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\OOP_Homework2_Static Members and Namespaces\Distance Calculator\obj\Debug\Distance Calculator.exe
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\OOP_Homework2_Static Members and Namespaces\Distance Calculator\obj\Debug\Distance Calculator.pdb
