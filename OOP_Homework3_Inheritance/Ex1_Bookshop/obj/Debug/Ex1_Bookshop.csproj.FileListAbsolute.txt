@@ -1,0 +1,6 @@
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\OOP_Homework3_Inheritance\Ex1_Bookshop\bin\Debug\Ex1_Bookshop.exe.config
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\OOP_Homework3_Inheritance\Ex1_Bookshop\bin\Debug\Ex1_Bookshop.exe
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\OOP_Homework3_Inheritance\Ex1_Bookshop\bin\Debug\Ex1_Bookshop.pdb
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\OOP_Homework3_Inheritance\Ex1_Bookshop\obj\Debug\Ex1_Bookshop.csprojResolveAssemblyReference.cache
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\OOP_Homework3_Inheritance\Ex1_Bookshop\obj\Debug\Ex1_Bookshop.exe
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\OOP_Homework3_Inheritance\Ex1_Bookshop\obj\Debug\Ex1_Bookshop.pdb

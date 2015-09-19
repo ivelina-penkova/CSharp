@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem1_Point3D", "Point3D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distance Calculator", "Distance Calculator\Distance Calculator.csproj", "{937C8969-BC16-4C39-99E4-1B0A9EDB696D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paths", "Paths\Paths.csproj", "{5DD7BC70-B566-4A3C-9029-4D63D4ED0A6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{937C8969-BC16-4C39-99E4-1B0A9EDB696D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{937C8969-BC16-4C39-99E4-1B0A9EDB696D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{937C8969-BC16-4C39-99E4-1B0A9EDB696D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DD7BC70-B566-4A3C-9029-4D63D4ED0A6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DD7BC70-B566-4A3C-9029-4D63D4ED0A6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DD7BC70-B566-4A3C-9029-4D63D4ED0A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DD7BC70-B566-4A3C-9029-4D63D4ED0A6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

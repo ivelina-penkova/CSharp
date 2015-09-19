@@ -1,0 +1,1 @@
+C:\Users\Ivka\Documents\GitHub\CSharp-Two\OOP_Homework3_Inheritance\Ex2_Abstraction\bin\Debug\Ex2_Abstraction.exe.config
