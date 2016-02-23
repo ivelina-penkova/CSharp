@@ -1,0 +1,5 @@
+C:\Users\Ina\Documents\GitHub\CSharp\OOP_Homework3_Inheritance\Human_Student_Worker\bin\Debug\Human_Student_Worker.exe.config
+C:\Users\Ina\Documents\GitHub\CSharp\OOP_Homework3_Inheritance\Human_Student_Worker\bin\Debug\Human_Student_Worker.exe
+C:\Users\Ina\Documents\GitHub\CSharp\OOP_Homework3_Inheritance\Human_Student_Worker\bin\Debug\Human_Student_Worker.pdb
+C:\Users\Ina\Documents\GitHub\CSharp\OOP_Homework3_Inheritance\Human_Student_Worker\obj\Debug\Human_Student_Worker.exe
+C:\Users\Ina\Documents\GitHub\CSharp\OOP_Homework3_Inheritance\Human_Student_Worker\obj\Debug\Human_Student_Worker.pdb
