@@ -1,1 +1,3 @@
 C:\Users\Ivka\Documents\GitHub\CSharp-Two\OOP_Homework3_Inheritance\Ex2_Abstraction\bin\Debug\Ex2_Abstraction.exe.config
+C:\Users\Ina\Documents\GitHub\CSharp\OOP_Homework3_Inheritance\Ex2_Abstraction\bin\Debug\Ex2_Abstraction.exe.config
+C:\Users\Ina\Documents\GitHub\CSharp\OOP_Homework3_Inheritance\Ex2_Abstraction\obj\Debug\Ex2_Abstraction.csprojResolveAssemblyReference.cache
