@@ -1,0 +1,1 @@
+C:\Users\ivelina\My stuff\csharp\OOP-Encapsulation-and-Polymorphism-Exercise-2\Battleships\bin\Debug\Battleships.exe.config
