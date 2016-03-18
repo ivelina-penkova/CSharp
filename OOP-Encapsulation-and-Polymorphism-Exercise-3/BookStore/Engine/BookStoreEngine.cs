@@ -4,11 +4,15 @@
     using System.Collections.Generic;
     using System.Linq;
     using Books;
+    using UI;
+
 
     public class BookStoreEngine
     {
         private readonly List<Book> books;
         private decimal revenue;
+        private readonly IRenderer renderer;
+        private readonly IInputHandler inputHandler;
 
         public BookStoreEngine()
         {
@@ -47,8 +51,9 @@
                 case "add":
                     return this.ExecuteAddBookCommand(commandArgs);
                 case "sell":
+                    return this.ExecuteSellBookCommand(commandArgs);
                 case "remove":
-                    return this.ExecuteRemoveSellBookCommand(commandArgs);
+                    return this.ExecuteRemoveBookCommand(commandArgs);
                 case "stop":
                     this.IsRunning = false;
                     return "Goodbye!";
@@ -57,27 +62,36 @@
             }
         }
 
-        private string ExecuteRemoveSellBookCommand(string[] commandArgs)
-        {
+        private string ExecuteRemoveBookCommand(string[] commandArgs) {
             string title = commandArgs[1];
 
-            Book bookToSellOrRemove = this.books.FirstOrDefault(book => book.Title == title);
+            Book bookToRemove = this.books.FirstOrDefault(book => book.Title == title);
 
-            if (bookToSellOrRemove == null)
+            if (bookToRemove == null)
+                return "Book does not exist";
+
+            this.books.Remove(bookToRemove);
+            return "Book removed";
+        }
+
+        private string ExecuteSellBookCommand(string[] commandArgs) {
+            string title = commandArgs[1];
+
+            Book bookToSell = this.books.FirstOrDefault(book => book.Title == title);
+
+            if (bookToSell == null)
             {
                 return "Book does not exist";
             }
 
-            this.books.Remove(bookToSellOrRemove);
-
             if (commandArgs[0] == "sell")
             {
-                this.revenue += bookToSellOrRemove.Price;
+                this.revenue += bookToSell.Price;
                 return "Book sold";
             }
-
-            return "Book removed";
+            return "Unsuccessful sale!";
         }
+
 
         private string ExecuteAddBookCommand(string[] commandArgs)
         {

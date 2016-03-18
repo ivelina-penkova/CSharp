@@ -1,0 +1,1 @@
+C:\Users\ivelina\My stuff\csharp\OOP-Encapsulation-and-Polymorphism-Exercise-3\BookStore\bin\Debug\BookStore.exe.config
